@@ -19,6 +19,6 @@
 ## Database Setup Order (Run SQL files in this order)
 1. users.sql
 2. ddl.sql
-3. function)_procedures.sql
+3. function_procedures.sql
 4. permissions.sql
 5. dml.sql
