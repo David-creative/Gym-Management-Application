@@ -15,3 +15,10 @@
 - **Modular Design**: Followed **modular programming principles**, enhancing the maintainability and scalability of the system.
 - **Automated Database Tasks**: Utilized **MySQL stored procedures and triggers** to automate specific tasks and ensure reliable data management.
 - **CRUD Operations**: Delivered a robust system supporting **CRUD operations** for managing clients, classes, and coaches, tailored for gym administrators and staff.
+
+## Database Setup Order (Run SQL files in this order)
+1. users.sql
+2. ddl.sql
+3. function)_procedures.sql
+4. permissions.sql
+5. dml.sql
